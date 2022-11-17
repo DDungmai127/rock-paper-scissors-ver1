@@ -1,0 +1,3 @@
+- Tổng quan về project
+- fadeIn()
+-  elements.animate()
